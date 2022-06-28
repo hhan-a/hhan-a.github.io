@@ -62,9 +62,9 @@ algolia:
 
 # SEO Related
 google_site_verification :
+naver_site_verification  : "262362abe7c0ba33570a314c9d09f690f1373ee9"
 bing_site_verification   :
 yandex_site_verification :
-naver_site_verification  : "262362abe7c0ba33570a314c9d09f690f1373ee9" 
 
 # Social Sharing
 twitter:
